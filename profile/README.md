@@ -20,7 +20,8 @@ Teraviq is in early development. Our core solver is being built and validated ag
 ## Follow along
 
 - Website: [teraviq.com](https://teraviq.com)
-- Updates will be shared here as the project matures.
+- LinkedIn: [linkedin.com/company/teraviq](https://www.linkedin.com/company/teraviq)
+- Updates will be shared here and on LinkedIn as the project matures.
 
 ---
 
