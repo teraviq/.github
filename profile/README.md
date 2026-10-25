@@ -21,6 +21,7 @@ Teraviq is in early development. Our core solver is being built and validated ag
 
 - Website: [teraviq.com](https://teraviq.com)
 - LinkedIn: [linkedin.com/company/teraviq](https://www.linkedin.com/company/teraviq)
+- Email: [hello@teraviq.com](mailto:hello@teraviq.com)
 - Updates will be shared here and on LinkedIn as the project matures.
 
 ---
