@@ -1,8 +1,8 @@
+<img src="teraviq-github-banner.jpg" alt="Teraviq: From heartbeats to wingbeats. Fluid–structure simulation at scale." width="100%">
+
 # Teraviq™
 
-**Next-generation simulation for fluids and structures in motion.**
-
-Teraviq is building a high-performance simulation platform for fluid–structure interaction: flows around moving, flexible and deforming bodies, from engineering systems to biological flows.
+Teraviq is building a high-performance simulation platform for fluid–structure interaction: flows around moving, flexible and deforming bodies, from beating hearts and flapping insect wings to aircraft.
 
 ## Our vision
 
@@ -11,7 +11,7 @@ High-fidelity flow simulation is still slow, expensive and hard to set up. We be
 - **Fast**: designed from the ground up for modern GPUs and supercomputers
 - **Adaptive**: resolution focused where the physics happens
 - **Accessible**: from a laptop prototype to a full-scale production run
-- **Intelligent**: ready to work alongside AI, not just beside it
+- **Intelligent**: smart numerical methods that put resolution where the physics happens.
 
 ## Status
 
@@ -27,4 +27,4 @@ Teraviq is in early development. Our core solver is being built and validated ag
 
 ---
 
-<sub>Teraviq™ is a trademark of its owner. © 2026 Teraviq. All rights reserved.</sub>
+<sub>© 2026 Teraviq. All rights reserved.</sub>
