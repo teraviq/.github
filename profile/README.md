@@ -11,7 +11,7 @@ High-fidelity flow simulation is still slow, expensive and hard to set up. We be
 - **Fast**: designed from the ground up for modern GPUs and supercomputers
 - **Adaptive**: resolution focused where the physics happens
 - **Accessible**: from a laptop prototype to a full-scale production run
-- **Intelligent**: smart numerical methods that put resolution where the physics happens.
+- **Intelligent**: built to pair high-fidelity simulation with AI and data-driven workflows
 
 ## Status
 
