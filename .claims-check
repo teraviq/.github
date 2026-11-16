@@ -1,0 +1,2 @@
+# Claims check: python3 ../ai-profile/tools/check_claims.py .
+scopes: all, teraviq-public
